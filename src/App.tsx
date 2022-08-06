@@ -1,3 +1,5 @@
+//https://levelup.gitconnected.com/build-a-chess-tactics-app-with-react-part-2-35621640afd1
+//color attacked protected squares  
 import "./App.css";
 import { useState } from "react";
 import Tactic from "./types/Tactic";
